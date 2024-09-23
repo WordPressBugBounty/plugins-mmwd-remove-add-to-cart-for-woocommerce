@@ -1,0 +1,1 @@
+# plugins-mmwd-remove-add-to-cart-for-woocommerce
